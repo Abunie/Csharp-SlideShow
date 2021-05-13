@@ -1,0 +1,106 @@
+{
+  "images": [
+    {
+      "count": "1",
+      "src": "~/slideimages/img1.jpeg",
+      "caption": "Field of yellow flowers"
+    },
+    {
+      "count": "2",
+      "src": "~/slideimages/img2.jpeg",
+      "caption": "Sand Dome Dubia"
+    },
+    {
+      "count": "3",
+      "src": "~/slideimages/img3.jpeg",
+      "caption": "Millwoods houses"
+    },
+    {
+      "count": "4",
+      "src": "~/slideimages/img4.jpeg",
+      "caption": "Beautiful Road"
+    },
+    {
+      "count": "5",
+      "src": "~/slideimages/img5.jpeg",
+      "caption": "Beatiful Dubia"
+    },
+    {
+      "count": "6",
+      "src": "~/slideimages/img6.jpeg",
+      "caption": "Dubia Beach"
+    },
+    {
+      "count": "7",
+      "src": "~/slideimages/img7.jpeg",
+      "caption": "Canadian Mountains"
+    },
+    {
+      "count": "8",
+      "src": "~/slideimages/img8.jpeg",
+      "caption": "River Bank"
+    },
+    {
+      "count": "9",
+      "src": "~/slideimages/img9.jpeg",
+      "caption": "A walk in Japan"
+    },
+    {
+      "count": "10",
+      "src": "~/slideimages/img10.jpeg",
+      "caption": "People on a Bridge"
+    },
+    { 
+      "count": "11",
+      "src": "~/slideimages/img11.jpeg",
+      "caption": "Rocky Ground"
+    },
+    {
+      "count": "12",
+      "src": "~/slideimages/img12.jpeg",
+      "caption": "Mountians"
+    },
+    {
+      "count": "13",
+      "src": "~/slideimages/img13.jpeg",
+      "caption": "Banff creek"
+    },
+    { 
+      "count": "14",
+      "src": "~/slideimages/img14.jpeg",
+      "caption": "Banff Waterfall"
+    },
+    {
+      "count": "15",
+      "src": "~/slideimages/img15.jpeg",
+      "caption": "Banff Mountians"
+    },
+    { 
+      "count": "16",
+      "src": "~/slideimages/img16.jpeg",
+      "caption": "Cotton Flower"
+    },
+    {
+      "count": "17",
+      "src": "~/slideimages/img17.jpeg",
+      "caption": "Sunlight brightens up Flower"
+    },
+    {
+      "count": "18",
+      "src": "~/slideimages/img18.jpeg",
+      "caption": "Yellow Flower"
+    },
+    {
+      "count": "19",
+      "src": "~/slideimages/img19.jpeg",
+      "caption": "Sunset"
+    },
+    {
+      "count": "20",
+      "src": "~/slideimages/img20.jpeg",
+      "caption": "Hotel Street lights"
+    }
+
+  ]
+  
+}
